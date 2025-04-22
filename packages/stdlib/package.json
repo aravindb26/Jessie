@@ -31,7 +31,7 @@
     "test": "ava"
   },
   "dependencies": {
-    "@endo/far": "^1.0.0"
+    "@endo/far": "^1.1.11"
   },
   "devDependencies": {
     "@endo/init": "^1.0.0",
