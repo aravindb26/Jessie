@@ -32,8 +32,8 @@
     "test": "ava"
   },
   "dependencies": {
-    "@endo/far": "^1.0.0",
-    "@endo/init": "^1.0.0",
+    "@endo/far": "^1.1.11",
+    "@endo/init": "^1.1.9",
     "@jessie.js/transform-this-module": "^0.2.3",
     "jessie.js": "^0.3.3"
   },
